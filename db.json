@@ -1,0 +1,46 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "titre": "Post1",
+        "contenu": "C'est un post",
+        "publishedAt": "10-01-2020"
+      },
+      {
+        "id": "2",
+        "titre": "Post2",
+        "contenu": "C'est un post",
+        "publishedAt": "01-01-2023"
+      },
+      {
+        "id": "3",
+        "titre": "Post3",
+        "contenu": "C'est un post",
+        "publishedAt": "01-01-2023"
+      }
+    ],
+    "produits": [
+      {
+        "id": "1",
+        "titre": "Infusion",
+        "description": "lorem Ips",
+        "prix": "3000",
+        "publishedAt": "01-01-2023"
+      },
+      {
+        "titre": "INFUSION DE BISSAP AU GINGEMBRE",
+        "description": "Lorem ",
+        "prix": "2000",
+        "publishedAt": "2023-08-08",
+        "id": "suFyArg"
+      }
+    ],
+    "utilisateurs": [
+      {
+        "nom": "Ahmed BINATE",
+        "email": "hamedbinate401@gmail.com",
+        "id": "aMReMNn"
+      }
+    ]
+  }
+  
